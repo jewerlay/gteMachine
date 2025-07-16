@@ -6,4 +6,4 @@ this is a free BAS(browser automation studio/bablosoft) script for GTE DEX
 4)adds liquidity to liquid pools
 5)withdraws liq from pools
 
-before using watch a video guide - 
+before using watch a video guide - https://www.youtube.com/watch?v=f5bNsOhnhXU
